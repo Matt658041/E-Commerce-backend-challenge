@@ -19,7 +19,7 @@
   - [Questions](#questions)
   
   ## Images
-  ![alt-text] (images/) 
+  ![alt-text](./Develop/images/insomnia-png.png) 
 
   ## Usage
   Use to create, add, and delete product inventory using Insomnia.
